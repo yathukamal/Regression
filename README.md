@@ -18,3 +18,7 @@ Check out the app here: [Medical Insurance Cost Predictor on Streamlit] (https:/
 
 ### How it works ###
 * Inputing features: age, BMI, number of children, sex, smoker status and region allows the app which uses a trained Random Forest regression model to predict the expected annual medical insurance cost for the user
+
+
+## Screenshot of the Iris Species Predictor App ##
+<img width="1584" height="1416" alt="image" src="https://github.com/user-attachments/assets/deba4ee9-9536-40e6-a18a-d0dc6b3ffde3" />
